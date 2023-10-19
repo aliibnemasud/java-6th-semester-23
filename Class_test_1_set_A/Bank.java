@@ -7,7 +7,6 @@ name from the main method. Then print your name and salary from main method. */
 class BankAccount {
     private double accountBalance;
     private String accountHolderName;
-
     public void setBalance(double balance) {
         accountBalance = balance;
     }
